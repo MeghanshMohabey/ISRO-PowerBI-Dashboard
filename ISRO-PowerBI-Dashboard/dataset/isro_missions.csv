@@ -1,0 +1,33 @@
+mission_name,year,mission_type,launch_vehicle,outcome
+Aryabhata,1975,Satellite,Interkosmos,Success
+Bhaskara-I,1979,Satellite,Interkosmos,Success
+Rohini RS-1,1980,Satellite,SLV,Success
+INSAT-1A,1982,Satellite,Delta,Failure
+INSAT-1B,1983,Satellite,Shuttle,Success
+IRS-1A,1988,Satellite,Vostok,Success
+IRS-1B,1991,Satellite,Vostok,Success
+PSLV-D1,1993,Launch Vehicle,PSLV,Failure
+PSLV-D2,1994,Launch Vehicle,PSLV,Success
+INSAT-2A,1992,Satellite,Ariane,Success
+INSAT-2B,1993,Satellite,Ariane,Success
+Chandrayaan-1,2008,Lunar,PSLV,Success
+Mars Orbiter Mission,2013,Interplanetary,PSLV,Success
+IRNSS-1A,2013,Navigation,PSLV,Success
+IRNSS-1B,2014,Navigation,PSLV,Success
+IRNSS-1C,2014,Navigation,PSLV,Success
+IRNSS-1D,2015,Navigation,PSLV,Success
+IRNSS-1E,2016,Navigation,PSLV,Success
+IRNSS-1F,2016,Navigation,PSLV,Success
+IRNSS-1G,2016,Navigation,PSLV,Success
+GSAT-19,2017,Satellite,GSLV Mk III,Success
+GSAT-29,2018,Satellite,GSLV Mk III,Success
+Chandrayaan-2,2019,Lunar,GSLV Mk III,Partial Failure
+RISAT-2BR1,2019,Satellite,PSLV,Success
+EOS-01,2020,Satellite,PSLV,Success
+GSAT-30,2020,Satellite,Ariane,Success
+EOS-03,2021,Satellite,GSLV,Failure
+SSLV-D1,2022,Launch Vehicle,SSLV,Failure
+SSLV-D2,2023,Launch Vehicle,SSLV,Success
+Chandrayaan-3,2023,Lunar,LVM3,Success
+Aditya-L1,2023,Solar,PSLV,Success
+XPoSat,2024,Astronomy,PSLV,Success
